@@ -1,0 +1,1231 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pos",
+				"pos:r	position:relative"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"loa",
+				"load	.load"
+			],
+			[
+				"cl",
+				"cl:b	clear:both"
+			],
+			[
+				"c",
+				"cf	+clearfix"
+			],
+			[
+				"yel",
+				"yelpCaller"
+			],
+			[
+				"the",
+				"then	then"
+			],
+			[
+				"param",
+				"parameterMap"
+			],
+			[
+				"reques",
+				"requested"
+			],
+			[
+				"blo",
+				"inline-block"
+			],
+			[
+				"prm",
+				"promise	.promise()"
+			],
+			[
+				"call",
+				"callback"
+			],
+			[
+				"print",
+				"print	keyword"
+			],
+			[
+				"prin",
+				"print	print"
+			],
+			[
+				"req",
+				"reqYelpPerm"
+			],
+			[
+				"Oa",
+				"oauthModule"
+			],
+			[
+				"para",
+				"parameters"
+			],
+			[
+				"res",
+				"resolve	resolve"
+			],
+			[
+				"th",
+				"then	then"
+			],
+			[
+				"parameter",
+				"parameterMap"
+			],
+			[
+				"paa",
+				"parameters"
+			],
+			[
+				"pa",
+				"parameterMap"
+			],
+			[
+				"user",
+				"userLocation"
+			],
+			[
+				"gest",
+				"getUserLoc"
+			],
+			[
+				"functi",
+				"function"
+			],
+			[
+				"oauth",
+				"oauthModule"
+			],
+			[
+				"geo",
+				"geoLocator"
+			],
+			[
+				"get",
+				"getUserLoc"
+			],
+			[
+				"lat",
+				"latLon"
+			],
+			[
+				"ov",
+				"ov:v	overflow:visible"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"not",
+				"notFound"
+			],
+			[
+				"found",
+				"foundYou"
+			],
+			[
+				"find",
+				"findUser"
+			],
+			[
+				"then",
+				"then	then"
+			],
+			[
+				"ex",
+				"expect"
+			],
+			[
+				"add",
+				"addresses"
+			],
+			[
+				"bus",
+				"businessString"
+			],
+			[
+				"addres",
+				"addresses"
+			],
+			[
+				"ne",
+				"nextAddress"
+			],
+			[
+				"de",
+				"delay	.delay()"
+			],
+			[
+				"G",
+				"Globaladdresses"
+			],
+			[
+				"fun",
+				"fun	Function"
+			],
+			[
+				"next",
+				"nextAddress"
+			],
+			[
+				"Geo",
+				"GeocoderStatus"
+			],
+			[
+				"new",
+				"newAddressesGeoLocated"
+			],
+			[
+				"ad",
+				"addreses"
+			],
+			[
+				"in",
+				"initialize"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"addre",
+				"addreses"
+			],
+			[
+				"im",
+				"image_url"
+			],
+			[
+				"for",
+				"for	for (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"map",
+				"map	$.map()"
+			],
+			[
+				"handl",
+				"handleCommentSubmit"
+			],
+			[
+				"load",
+				"loadCommentsFromServer"
+			],
+			[
+				"com",
+				"componentWillMount"
+			],
+			[
+				"dat",
+				"dataType"
+			],
+			[
+				"Com",
+				"CommentForm"
+			],
+			[
+				"comme",
+				"commentBox"
+			],
+			[
+				"Comme",
+				"CommentBox"
+			],
+			[
+				"tur",
+				"tutorial12"
+			],
+			[
+				"Co",
+				"CommentList"
+			],
+			[
+				"conte",
+				"content"
+			],
+			[
+				"Comm",
+				"CommentBox"
+			],
+			[
+				"rend",
+				"renderComponent"
+			],
+			[
+				"to",
+				"toString"
+			],
+			[
+				"comment",
+				"CommentForm"
+			],
+			[
+				"tran",
+				"transDetails"
+			],
+			[
+				"tra",
+				"trans"
+			],
+			[
+				"web",
+				"webkitDetails"
+			],
+			[
+				"te",
+				"text	.text"
+			],
+			[
+				"ea",
+				"each	$.each()"
+			],
+			[
+				"e",
+				"each	$.each()"
+			],
+			[
+				"ma",
+				"m:a	margin:auto"
+			],
+			[
+				"re",
+				"rel"
+			],
+			[
+				"insert",
+				"insertBefore	.insertBefore()"
+			],
+			[
+				"app",
+				"append	.append"
+			],
+			[
+				"par",
+				"parameters"
+			],
+			[
+				"pre",
+				"prettyprint"
+			],
+			[
+				"oua",
+				"oauth_signature"
+			],
+			[
+				"oauth_",
+				"oauth_signature_method"
+			],
+			[
+				"va",
+				"var"
+			],
+			[
+				"ac",
+				"action"
+			],
+			[
+				"acces",
+				"accessor"
+			],
+			[
+				"access",
+				"accessToken"
+			],
+			[
+				"consumer",
+				"consumerSecret"
+			],
+			[
+				"err",
+				"error	.error()"
+			],
+			[
+				"gel",
+				"geolocation"
+			],
+			[
+				"error",
+				"errorFlag"
+			],
+			[
+				"game",
+				"gameOver"
+			],
+			[
+				"an",
+				"answered_questions"
+			],
+			[
+				"answ",
+				"answered_questions"
+			],
+			[
+				"cor",
+				"correct_questions"
+			],
+			[
+				"if",
+				"if	if"
+			],
+			[
+				"sta",
+				"status"
+			],
+			[
+				"confirm",
+				"confirmQuestion"
+			],
+			[
+				"retu",
+				"returnAnswer"
+			],
+			[
+				"quest",
+				"questTest"
+			],
+			[
+				"que",
+				"questionGen"
+			],
+			[
+				"cho",
+				"choice"
+			],
+			[
+				"choice",
+				"choices"
+			],
+			[
+				"check",
+				"checkQuest"
+			],
+			[
+				"vid",
+				"vidFile"
+			],
+			[
+				"curr",
+				"currentQuestion"
+			],
+			[
+				"qu",
+				"questions"
+			],
+			[
+				"fu",
+				"fun	Function"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"p-",
+				"pos-r	position: relative;"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"read",
+				"ready	$(document).ready"
+			],
+			[
+				"scr",
+				"script	Tag"
+			],
+			[
+				"mod",
+				"modal"
+			],
+			[
+				"cur",
+				"current_question"
+			],
+			[
+				"question",
+				"questionSpace"
+			],
+			[
+				"curre",
+				"current_question"
+			],
+			[
+				"chec",
+				"checkQuote"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"fade",
+				"fadeIn	.fadeIn()"
+			],
+			[
+				"remo",
+				"removeClass	.removeClass"
+			],
+			[
+				"main",
+				"main-hidden"
+			],
+			[
+				"ine",
+				"inline-block"
+			],
+			[
+				"d",
+				"d-ib	display: inline-block;"
+			],
+			[
+				"D",
+				"d-n	display: none;"
+			],
+			[
+				"rem",
+				"removeClass	.removeClass"
+			],
+			[
+				"choic",
+				"choiceSpaces"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"pso",
+				"pos-r	position: relative;"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 242.0,
+		"selected_items":
+		[
+			[
+				"syntax sas",
+				"Set Syntax: Sass"
+			],
+			[
+				"task",
+				"Set Syntax: Tasks"
+			],
+			[
+				"set ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"pret",
+				"HTMLPrettify"
+			],
+			[
+				"dis",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"en",
+				"Package Control: Enable Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"path",
+				"File: Copy Path From Project"
+			],
+			[
+				"PACK",
+				"Package Control: List Packages"
+			],
+			[
+				"ENABLE",
+				"Package Control: Enable Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"lint",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"linter",
+				"SublimeLinter: Enable Debug Mode"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set sy jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set sy js",
+				"Set Syntax: JSON"
+			],
+			[
+				"set s ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"set syjav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"instal	",
+				"Package Control: Install Package"
+			],
+			[
+				"pah",
+				"File: Copy Path From Project"
+			],
+			[
+				"set jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set h",
+				"Set Syntax: HTML"
+			],
+			[
+				"pr",
+				"HTMLPrettify: Set Prettify Preferences"
+			],
+			[
+				"PREF",
+				"Autoprefix CSS"
+			],
+			[
+				"pre",
+				"Autoprefix CSS"
+			],
+			[
+				"set sy cs",
+				"Set Syntax: CSS"
+			],
+			[
+				"prettify",
+				"HTMLPrettify: Set Keyboard Shortcuts"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"fetc",
+				"Fetch: Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"set",
+				"Set Syntax: Python"
+			],
+			[
+				"pat",
+				"File: Copy Path as URI"
+			],
+			[
+				"auto",
+				"Autoprefix CSS"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"",
+				"Autoprefix CSS"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"prefix",
+				"Autoprefix CSS"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"fetch",
+				"Fetch: Manage"
+			],
+			[
+				"prettif",
+				"HTMLPrettify: Set Prettify Preferences"
+			],
+			[
+				"insatl",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"copy sc",
+				"File: Copy as Tag script"
+			],
+			[
+				"cop",
+				"File: Copy as Tag script"
+			],
+			[
+				"copy",
+				"File: Copy as Tag style"
+			],
+			[
+				"reload",
+				"Emmet: Reload Extensions"
+			],
+			[
+				"ask",
+				"Tasks: New document"
+			],
+			[
+				"tasks n",
+				"Tasks: New document"
+			],
+			[
+				"git s",
+				"Git: Status"
+			],
+			[
+				"gis",
+				"Git: Status"
+			],
+			[
+				"git",
+				"Git: Init"
+			],
+			[
+				"rem	",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"hint",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"remoe",
+				"Package Control: Remove Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"javascr",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sublime",
+				"SublimeLint: Next Error"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"list pac",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"edit",
+				"Project: Edit"
+			],
+			[
+				"project",
+				"Project: Save As"
+			],
+			[
+				"browe",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"snipp	",
+				"Snippet: html"
+			],
+			[
+				"package insta",
+				"Package Control: Install Package"
+			],
+			[
+				"fet",
+				"Fetch: Package"
+			],
+			[
+				"p",
+				"Package Control: Remove Package"
+			],
+			[
+				"pref",
+				"Autoprefix CSS"
+			],
+			[
+				"emmet next",
+				"Emmet: Next Edit Point"
+			],
+			[
+				"emmet",
+				"Emmet: Select Next Item"
+			],
+			[
+				"s",
+				"Snippet: html"
+			]
+		],
+		"width": 401.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/afrimpong/Dropbox/Public/Api-Hack/findmepizza/index.html",
+		"/C/Users/afrimpong/Dropbox/Public/Api-Hack/findmepizza/app.js",
+		"/C/Users/afrimpong/Dropbox/Public/Api-Hack/findmepizza/sass/screen.scss",
+		"/C/Users/afrimpong/Documents/Sketch101/Commercial Parody TODO.TODO",
+		"/C/Users/afrimpong/PIP_Projects/proj_gutenberg/project-gutenberg-pt1/document_tagger/part1/pg_sample_texts.py",
+		"/C/Users/afrimpong/PIP_Projects/os_demo/file_open.py",
+		"/C/Users/afrimpong/Dropbox/Public/Api-Hack/oauth2 test/continue.py",
+		"/C/Users/afrimpong/Dropbox/Public/Api-Hack/oauth2 test/yelp-api/v2/python/business.py",
+		"/C/Users/afrimpong/Dropbox/Public/Api-Hack/oauth2 test/sass/print.scss",
+		"/C/Users/afrimpong/Dropbox/Public/Api-Hack/oauth2 test/sass/screen.scss",
+		"/C/Users/afrimpong/Dropbox/Public/Api-Hack/oauth2 test/index_.html",
+		"/C/Users/afrimpong/Dropbox/mystuff/LearnPythonTheHardWay/LPTHW-exs/ex46/projects/FrimmyProj1 - FrimmyGame/FrimmyGame/HelloWorld.py",
+		"/C/Users/afrimpong/Dropbox/mystuff/LearnPythonTheHardWay/LPTHW-exs/ex46/projects/testProj_1/FrimmyGame-0.1.zip",
+		"/C/Users/afrimpong/Dropbox/mystuff/LearnPythonTheHardWay/LPTHW-exs/ex47/ex47/game.py",
+		"/C/Users/afrimpong/Dropbox/mystuff/LearnPythonTheHardWay/LPTHW-exs/ex47/ex47/__init__.py",
+		"/C/Users/afrimpong/Dropbox/mystuff/LearnPythonTheHardWay/LPTHW-exs/ex46/projects/FrimmyProj1 - FrimmyGame/FrimmyGame/__init__.pyc",
+		"/C/Users/afrimpong/angular-tut/angular-phonecat/test/unit/controllersSpec.js",
+		"/C/Users/afrimpong/Dropbox/react_proj_alpha/comment-proj/app.js",
+		"/C/Users/afrimpong/Dropbox/wimhq/my_proj/wimhq.js",
+		"/C/Users/afrimpong/Dropbox/react_proj_alpha/react-0.8.0/index.html",
+		"/C/Users/afrimpong/Dropbox/react_proj_alpha/react-0.8.0/examples/basic-jsx/index.html",
+		"/C/Users/afrimpong/Dropbox/react_proj_alpha/react-0.8.0/examples/basic/index.html",
+		"/C/Users/afrimpong/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/C/Users/afrimpong/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/Default (Windows).sublime-keymap",
+		"/C/Users/afrimpong/Dropbox/Public/Api-Hack/findmepizza/sass/print.scss",
+		"/C/Users/afrimpong/Dropbox/mystuff/LearnPythonTheHardWay/LPTHW-exs/ex46/projects/FrimmyProj1 - FrimmyGame/tests/FrimmyGame_tests.py",
+		"/C/Users/afrimpong/Dropbox/mystuff/LearnPythonTheHardWay/LPTHW-exs/ex46/projects/FrimmyProj1 - FrimmyGame/FrimmyGame/__init__.py",
+		"/C/Users/afrimpong/Dropbox/mystuff/LearnPythonTheHardWay/LPTHW-exs/ex46/projects/FrimmyProj1 - FrimmyGame/setup.py",
+		"/C/Users/afrimpong/Dropbox/mystuff/LearnPythonTheHardWay/LPTHW-exs/ex46/projects/FrimmyProj1 - FrimmyGame/tests/__init__.py",
+		"/C/Users/afrimpong/Dropbox/Public/Api-Hack/findmepizza/stylesheets/screen.css",
+		"/C/Users/afrimpong/Dropbox/Public/Api-Hack/stylesheets/screen.css",
+		"/C/Users/afrimpong/Dropbox/Public/Api-Hack/sass/screen.scss",
+		"/C/Users/afrimpong/Dropbox/Public/Api-Hack/css/main.css",
+		"/C/Users/afrimpong/Dropbox/Public/Api-Hack/css/bootstrap.min.css",
+		"/C/Users/afrimpong/Dropbox/Public/Api-Hack/config.rb",
+		"/C/Users/afrimpong/Dropbox/Public/Api-Hack/sass/print.scss",
+		"/C/Users/afrimpong/Dropbox/Public/Api-Hack/sass/ie.scss",
+		"/C/Users/afrimpong/Dropbox/Public/Api-Hack/Starter Template for Bootstrap.htm",
+		"/C/Users/afrimpong/Dropbox/Public/Api-Hack/index.htm",
+		"/C/Users/afrimpong/Dropbox/Public/Api-Hack/js/jquery-1.10.2.min.js",
+		"/C/Users/afrimpong/Dropbox/Public/Api-Hack/app.js",
+		"/C/Users/afrimpong/Dropbox/Public/Api-Hack/js/bootstrap.min.js",
+		"/C/Users/afrimpong/Dropbox/Public/api-jack/index.html",
+		"/C/Users/afrimpong/Dropbox/Public/api-jack/404.html",
+		"/C/Users/afrimpong/Dropbox/mystuff/LearnPythonTheHardWay/LPTHW-exs/ex46/projects/skeleton/tests/NAME_tests.py",
+		"/C/Users/afrimpong/Dropbox/Public/quiz_app/quiz-app/video/Parks and Recreation - Tom explains Apps and Zerts.mp4.crdownload",
+		"/C/Users/afrimpong/Dropbox/Public/quiz_app/quiz-app/js/FitVids.js/jquery.fitvids.js",
+		"/C/Users/afrimpong/Dropbox/Public/quiz_app/quiz-app/js/FitVid.js",
+		"/C/Users/afrimpong/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/afrimpong/Dropbox/mystuff/LearnPythonTheHardWay/LPTHW-exs/ex45.py",
+		"/C/Users/afrimpong/Dropbox/Public/quiz_app/quiz-app/README.md",
+		"/C/Users/afrimpong/AppData/Roaming/Sublime Text 3/Packages/User/Fetch.sublime-settings",
+		"/C/Users/afrimpong/Dropbox/Public/Blog-Media/index.html",
+		"/C/Users/afrimpong/Dropbox/Public/quiz_app/quiz-app/test.js",
+		"/C/Users/afrimpong/Dropbox/Public/quiz_app/quiz-app/index2.html",
+		"/C/Users/afrimpong/Dropbox/webfiles/I was once like you. I was satisfied with my smart",
+		"/C/Users/afrimpong/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/afrimpong/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/afrimpong/Dropbox/Public/projects-web/thisweek.TODO",
+		"/C/Users/afrimpong/AppData/Roaming/Sublime Text 3/Packages/PlainTasks/messages/Tutorial.todo",
+		"/C/Users/afrimpong/AppData/Roaming/Sublime Text 3/Packages/sublime-github/GitHub.sublime-settings",
+		"/C/Users/afrimpong/AppData/Roaming/Sublime Text 3/Packages/SublimeGit/SublimeGit.sublime-settings",
+		"/C/Users/afrimpong/AppData/Roaming/Sublime Text 3/Packages/Autoprefixer/Autoprefixer.sublime-settings",
+		"/C/Users/afrimpong/AppData/Roaming/Sublime Text 3/Packages/CSSLint/Default (Windows).sublime-keymap",
+		"/C/Users/afrimpong/AppData/Roaming/Sublime Text 3/Packages/User/Autoprefixer.sublime-settings",
+		"/C/Users/afrimpong/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/Default (Windows).sublime-keymap",
+		"/C/Users/afrimpong/AppData/Roaming/Sublime Text 3/Packages/User/AdvancedNewFile.sublime-settings",
+		"/C/Users/afrimpong/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+		"/C/Users/afrimpong/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Default (Windows).sublime-keymap",
+		"/C/Users/afrimpong/Dropbox/Public/projects-web/main.css",
+		"/C/Users/afrimpong/Dropbox/Public/projects-web/sample.sublime-project",
+		"/C/Users/afrimpong/AppData/Roaming/Sublime Text 3/Packages/User/main.css",
+		"/C/Users/afrimpong/AppData/Roaming/Sublime Text 3/Packages/User/main2.css",
+		"/C/Users/afrimpong/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/afrimpong/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/CHANGELOG",
+		"/C/Users/afrimpong/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/afrimpong/Dropbox/Public/projects-web/css/sass/buttons.sass",
+		"/C/Users/afrimpong/Dropbox/Public/projects-web/boilerplate/buttons.css",
+		"/C/Users/afrimpong/Dropbox/Public/projects-web/test_index.html",
+		"/C/Users/afrimpong/Dropbox/Public/projects-web/jquery.js",
+		"/C/Users/afrimpong/Dropbox/Public/projects-web/stlye.css",
+		"/C/Users/afrimpong/AppData/Roaming/Sublime Text 3/Packages/AdvancedNewFile/README.md",
+		"/C/Users/afrimpong/AppData/Roaming/Sublime Text 3/Packages/AdvancedNewFile/Default (Windows).sublime-keymap",
+		"/C/Users/afrimpong/AppData/Roaming/Sublime Text 3/Packages/AdvancedNewFile/AdvancedNewFile.sublime-settings",
+		"/C/Users/afrimpong/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/C/Users/afrimpong/Dropbox/Public/projects-web/normalize.css",
+		"/C/Users/afrimpong/Dropbox/Public/Blog-Media/timer.js",
+		"/C/Users/afrimpong/Dropbox/Public/frimmy.github.io/test_countdown.html",
+		"/C/Users/afrimpong/Dropbox/Public/frimmy.github.io/dark.css",
+		"/C/Users/afrimpong/Dropbox/Public/yeoman-app-test/app/index.html",
+		"/C/Users/afrimpong/Dropbox/Public/yeoman-hello-world/app/index.html",
+		"/C/Users/afrimpong/Dropbox/Public/Project Bootstrapped Template/api-test/index.html",
+		"/C/Users/afrimpong/Dropbox/Public/Project Bootstrapped Template/api-test/app.js",
+		"/C/Users/afrimpong/Dropbox/Public/Nodejstesting/example.js",
+		"/C/Users/afrimpong/Dropbox/Public/yeoman-hello-world/node_modules/grunt-contrib-compass/node_modules/tmp/lib/tmp.js",
+		"/C/Users/afrimpong/Dropbox/Public/Project Bootstrapped Template/index.html",
+		"/C/Users/afrimpong/Dropbox/Public/Project Bootstrapped Template/app.js",
+		"/C/Users/afrimpong/Dropbox/Public/Hot or Cold/Hot-Or-Cold/main.css",
+		"/C/Users/afrimpong/Dropbox/Public/Hot or Cold/Hot-Or-Cold/application.js",
+		"/C/Users/afrimpong/Dropbox/mystuff/LearnPythonTheHardWay/LPTHW-exs/Adrian_Game.py",
+		"/C/Users/afrimpong/Dropbox/Public/Hot or Cold/Hot-Or-Cold/index.html",
+		"/C/Users/afrimpong/Dropbox/Public/Project Bootstrapped Template/main.css",
+		"/C/Users/afrimpong/Dropbox/Public/Hot or Cold/index.html",
+		"/C/Users/afrimpong/Dropbox/mystuff/LearnPythonTheHardWay/LPTHW-exs/cracklePop.py",
+		"/C/Users/afrimpong/Dropbox/mystuff/LearnPythonTheHardWay/LPTHW-exs/mystuff.py"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"geocoder",
+			"cb(data)",
+			"Globaladdresses",
+			"newAddressesGeoLocated",
+			"bounds",
+			"nextAddress",
+			"'#results'",
+			"'results'",
+			"results",
+			"foo",
+			"results",
+			"class=\"map-results\"",
+			"setLoc",
+			"latlng",
+			"parameterMap",
+			"parameter",
+			"parameterMap",
+			"setLoc",
+			"10",
+			"signature",
+			"message",
+			"latlng",
+			"var map",
+			"map",
+			"parametermap",
+			"message",
+			"parameters",
+			"para",
+			"=",
+			"arg",
+			"nextAddress",
+			"businessString",
+			"theNext",
+			"next",
+			"theNext",
+			"codeAddre",
+			"Addresses",
+			"addresses",
+			"POST",
+			"\"",
+			"how",
+			"path",
+			"val",
+			"toUpdate",
+			");\nparameters.push(",
+			":",
+			"handleNoGeolocation",
+			" ",
+			"<li>",
+			">\n",
+			"guess",
+			"value=\"",
+			"\"radio\"",
+			"type=\"radio\"",
+			"type=\"radio\">",
+			"type=",
+			"value=\"",
+			"</li>",
+			" ",
+			"width",
+			"game",
+			"answered",
+			"status",
+			"answered",
+			"correctChoice",
+			"guess",
+			"vidFile",
+			"video",
+			"correct:0",
+			"youTubeLink",
+			"questionSpace",
+			"centered",
+			"centere",
+			"#next",
+			">X<",
+			"correct:0",
+			"quizModal",
+			"#myModal",
+			"myModal",
+			"choiceSpace-hovered",
+			"myModal",
+			"footer",
+			"	",
+			"main-hidden",
+			"li><",
+			"li>",
+			"li",
+			"hidden-elements",
+			".nav",
+			"content",
+			"height",
+			"start",
+			"html",
+			"linear",
+			"height",
+			"max-height",
+			"nextquest",
+			"fadeIn",
+			"bottom",
+			"left",
+			"fadeIn",
+			"slow",
+			"fast",
+			"$question",
+			"}\n",
+			"              <li></li>\n",
+			"$questions.nextQuest()",
+			"_4",
+			"_3",
+			"_2",
+			"_0",
+			"ed",
+			"_1",
+			"			console.log($choiceSpaces);\n",
+			"05abe0",
+			"linear",
+			"#87e0fd",
+			"quest",
+			"hsla(0",
+			"        <button>Previous Question</button>\n",
+			"		# above statement tested the self.map.scenes\n",
+			"==",
+			"question",
+			"one",
+			"display: box",
+			"display:-webkit-box",
+			"../",
+			"('../images"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "scratch.sublime-project",
+	"replace":
+	{
+		"height": 38.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"r",
+				"C:\\Users\\afrimpong\\Dropbox\\mystuff\\LearnPythonTheHardWay\\LPTHW-exs\\ex45.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 155.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
